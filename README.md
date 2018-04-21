@@ -1,2 +1,2 @@
 # ComputerVision
-Computer Vision Algorithm in Python OpenCV
+Computer Vision Algorithms in Python OpenCV
